@@ -1,5 +1,5 @@
 # new-challenge
-Solve New Challenge & Add here.
+Finish New Challenge & Add here.
 
 ## Challenge 2
 Waiting...
