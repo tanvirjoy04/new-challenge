@@ -5,9 +5,9 @@ Finish New Challenge & Add here.
 Waiting...
 
 ## Challenge 2
-[first flex example](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox) 
+Go to this Link => [first flex example](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox) 
 
-Bring the Output image given.
+Print the Exact Output.
 
 ## Challenge 1
 Interactive challenge
