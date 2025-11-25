@@ -1,26 +1,36 @@
+html{
+  border: 6px solid green;
+  background: lightgreen;
+}
+
 /*if you declare display: flex; in any class, it'll be a container*/
 .container-row1{
   display: flex;/*if you declare display: flex; in any class, it'll be a container*/
-  border: 4px solid blue;
+  border: 6px solid blue;
   background-color: lightblue;
+  margin: 15px;
 }
 
 .container-row1 div{
   background: peachpuff;
-  border: 5px solid salmon;
-  height: 50px;
+  border: 6px solid salmon;
+  height: 100px;
   flex:1;
-  margin: 10px;
-  padding: 5px;
+  margin: 25px;
+  padding: 8px;
 }
 
+.container-row1 .container-item2{
+  margin: initial;
+  margin: 25px -15px;
+}
 /*if you declare display: flex; in any class, it'll be a container*/
-.container-item2{
+.container-row1 .container-item2{
   display: flex;/*if you declare display: flex; in any class, it'll be a container*/
 }
 
 .container-item2 div{
-  border: 4px solid red;
+  border: 6px solid red;
   background: lightpink;
   height: auto;
   margin: 0;
@@ -34,10 +44,10 @@
 }
 .container-row2 .item1{
   background-color: lightpink;
-  border: 5px solid brown;
-  height: 200px;
+  border: 6px solid brown;
+  height: 300px;
   flex: 1;
-  margin: 10px;
+  margin: 15px 0 15px 15px;
 }
 
 .item2{
@@ -45,11 +55,43 @@
 }
 
 .item2 div{
-  border: solid black;
-  height:90px;
-  margin: 10px;
+  height:136px;
+  margin: 15px;
   background-color: lightpink;
-  border: 5px solid brown;
+  border: 6px solid brown;
 }
 /*____________________________________________*/
 
+.container-row3 {
+  border: 6px solid blue;
+  display: flex;/*if you declare display: flex; in any class, it'll be a container*/
+  background: lightblue;
+  height: 140px;
+  margin: 10px;
+}
+
+.container-row3 div{
+  border: 6px solid mediumpurple;
+  background: aliceblue;
+  flex:1;
+  margin: 10px;
+}
+
+.container-row3 .two{
+  all:initial;
+  flex:1;
+  display: flex;/*if you declare display: flex; in any class, it'll be a container*/
+}
+.two div{
+  margin:initial;
+  height: auto;
+  background: peachpuff;
+  border: 6px solid salmon;
+}
+
+.two .bx1{
+  margin: 10px 2.5px 10px -5px;
+}
+.two .bx2{
+  margin: 10px -5px 10px 2.5px;
+}
