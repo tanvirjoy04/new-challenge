@@ -10,6 +10,7 @@ Waiting...
 For table, We should apply-
 1. ```scope``` for simple data table,
 2. ```id``` , ```header``` for complex data table
+
 Now create the table & apply accordingly.
 
 ## Challenge 2
