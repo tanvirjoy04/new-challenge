@@ -13,6 +13,9 @@ For table, We should apply-
 
 Now create the table & apply accordingly.
 
+
+For github pages deployment, Challenge 3 has been moved to [planet-data-table repo](https://github.com/tanvirjoy04/planet-data-table)
+
 ## Challenge 2
 Go to this Link => [first flex example](https://www.theodinproject.com/lessons/foundations-introduction-to-flexbox) 
 
