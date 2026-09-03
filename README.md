@@ -1,8 +1,12 @@
 # new-challenge
 Finish New Challenge & Add here.
 
-## Challenge 4
+## Challenge 5
 Waiting...
+
+## Challenge 4
+Source: Odin Project > Advanced Selectors Lesson > Assignment 1 > 
+Complete [CSS Diner.](https://flukeout.github.io/)
 
 ## Challenge 3
 [Planet data table](http://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Planet_data_table)

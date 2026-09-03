@@ -1,0 +1,32 @@
+1. plate
+2. bento
+3. #fancy
+4. plate apple / plate > apple
+5. #fancy pickle / #fancy > pickle
+6. .small / apple.small
+7. orange.small
+8. bento orange.small
+9. plate, bento
+10. *
+11. plate *
+12. plate + apple
+13. bento ~ pickle / bento + pickle ,bento + pickle ~ pickle
+14. plate > apple
+15. plate :first-child / orange:first-child / orange:nth-child(1)
+16. plate apple, plate pickle / plate > apple, plate > pickle / apple, plate pickle
+17. apple, pickle / apple.small, pickle.small / pickle:last-child, apple / apple:last-child, pickle:last-child
+18. plate:nth-of-type(3) / plate:nth-last-child(2) / plate:nth-child(3)
+19. bento:first-of-type / bento:nth-of-type(1) / bento:nth-last-of-type(2)
+20. apple:first-of-type / apple:nth-of-type(1) / 
+21. plate:nth-child(2n) / plate:nth-child(even)
+22. plate:nth-child(2n+3)
+23. apple.small:only-of-type / apple:only-of-type / plate:nth-child(even) apple
+24. orange:last-of-type, apple:last-of-type
+25. bento:empty
+26. apple:not(.small)
+27. [for="Ethan"], [for="Alice"], [for="Clara"] / apple[for="Ethan"], plate[for="Alice"], bento[for="Clara"]
+28. [for="Sarah"], [for="Luke"] / plate[for="Sarah"], plate[for="Luke"]
+29. [for="Vitaly"]
+30. [for^="Sa"]
+31. [for$="ato"]
+32. [for*="obb"]
