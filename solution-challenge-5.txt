@@ -1,0 +1,28 @@
+Selectors 1:
+
+h1{
+  color:blue;
+}
+h2{
+  background-color: blue;
+  color:white;
+}
+span{
+  font-size: 200%;
+}
+
+Selectors 2:
+
+#special{
+  background-color: yellow;
+}
+.alert{
+  border: 2px solid grey;
+}
+.alert.stop{
+  background-color: red;
+}
+.alert.go{
+  background-color: green;
+}
+
