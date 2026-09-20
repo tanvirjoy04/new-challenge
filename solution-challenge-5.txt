@@ -1,4 +1,4 @@
-Selectors 1:
+1.
 
 h1{
   color:blue;
@@ -11,7 +11,7 @@ span{
   font-size: 200%;
 }
 
-Selectors 2:
+2.
 
 #special{
   background-color: yellow;
@@ -26,3 +26,47 @@ Selectors 2:
   background-color: green;
 }
 
+3.
+
+a:link{
+  color:orange;
+}
+a:visited{
+  color:green;
+}
+a:hover{
+  text-decoration: none;
+}
+.container p:first-child{
+  font-size: 150%;
+}
+.container p:first-child::first-line{
+  color: red;
+}
+tr:nth-child(even){
+  background-color: #333333;
+  color: white;
+}
+
+4.
+
+h2 + p{
+  color:red;
+}
+
+ul.list > li{
+  list-style: none;
+  border-bottom: 1px solid #cccccc;
+}
+
+5.
+
+a[title]{
+  border-color:pink;
+}
+a[href*="contact"]{
+  border-color: orange;
+}
+a[href^="https"]{
+  border-color: green;
+}

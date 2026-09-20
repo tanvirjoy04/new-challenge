@@ -5,7 +5,7 @@ Finish New Challenge & Add here.
 Waiting...
 
 ## Challenge 5
-Do this [Selectors Assessment](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors/Selectors_Tasks) from MDN.
+Source: Odin Project > Advanced Selectors Lesson > Assignment 3 > Do this [Selectors Assessment](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors/Selectors_Tasks) from MDN.
 
 ## Challenge 4
 Source: Odin Project > Advanced Selectors Lesson > Assignment 1 > 
