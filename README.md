@@ -1,8 +1,11 @@
 # new-challenge
 Finish New Challenge & Add here.
 
-## Challenge 6
+## Challenge 7
 Waiting...
+
+## Challenge 6
+[Hands-on Practice CSS Variables and build dark mode, light mode.](https://www.youtube.com/watch?v=oZPR_78wCnY)
 
 ## Challenge 5
 Source: Odin Project > Advanced Selectors Lesson > Assignment 3 > Do this [Selectors Assessment](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Basic_selectors/Selectors_Tasks) from MDN.
